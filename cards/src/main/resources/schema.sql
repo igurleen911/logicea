@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS USERS cascade;  
+CREATE TABLE USERS (  
+User_id INT AUTO_INCREMENT  PRIMARY KEY,  
+user_name VARCHAR(50) NOT NULL,  
+email_address VARCHAR(50) NOT NULL,
+user_role VARCHAR(50) NOT NULL,
+password VARCHAR(50) NOT NULL  
+);  
