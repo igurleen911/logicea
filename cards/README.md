@@ -7,3 +7,5 @@ STS : Spring Tool Suite 3 (Version: 3.9.10.RELEASE)
 H2 Embedded DB
 
 Build Command : mvn clean install -DskipTests=true
+
+LogiceaUserCard.postman_collection.json for some requests
